@@ -1,0 +1,45 @@
+.banner{
+    background-color: tan;
+    color: white;
+    text-align: center;
+    height: 5em;
+}
+
+.sinbordes{
+    padding: 0;
+}
+
+.leftMenu{
+    background-color: orange;
+    text-align: center;
+    height: 50em;
+}
+
+.topMenu{
+    background-color: RosyBrown;
+    text-align: center;
+    height: 4em;
+}
+
+.mainContent{
+    background-color: gainsboro;
+    text-align: center;
+    vertical-align: middle;
+    height: 20em;
+}
+
+.photoA{
+    background-color: PaleVioletRed;
+    text-align: center;
+}
+
+.photoB{
+    background-color: DarkCyan;
+    text-align: center;
+}
+
+.footer{
+    background-color: tan;
+    color: white;
+    text-align: center;
+}
